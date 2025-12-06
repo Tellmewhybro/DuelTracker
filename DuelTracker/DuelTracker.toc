@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: |cff00FFFFDuel Tracker|r
+## Notes: Dynamic duel stats when targeting players - Modern UI
+## Author: Tellmewhybro
+## Version: 1.0.0
+## SavedVariables: DuelTrackerDB
+
+DuelTracker.lua
