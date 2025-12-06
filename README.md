@@ -8,6 +8,12 @@ A World of Warcraft 3.3.5a addon for tracking duel statistics against other play
 ![WoW 3.3.5a](https://img.shields.io/badge/WoW-3.3.5a-blue)
 ![Warmane](https://img.shields.io/badge/Server-Warmane-orange)
 
+## Demo
+
+[![DuelTracker Demo](https://img.youtube.com/vi/cfAQBp3lKO0/0.jpg)](https://www.youtube.com/watch?v=cfAQBp3lKO0)
+
+> Click the image to watch the demo video!
+
 ## Features
 
 ### 📊 Live Duel Statistics
@@ -103,4 +109,3 @@ Free to use and modify. Have fun dueling!
 ## Author
 
 Made by **Tellmewhybro** ⚔️ for Warmane players
-
